@@ -1,2 +1,10 @@
+langgraph
 python-dotenv
 langchain_groq
+langchain
+langchain_community
+langchainhub
+load_dotenv
+ipython
+
+
