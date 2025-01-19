@@ -8,6 +8,10 @@ langchainhub
 load_dotenv
 ipython
 
+ crewai 
+ crewai-tools 
+ streamlit 
+ python-dotenv
 
 
 
